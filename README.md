@@ -19,4 +19,12 @@ This project uses Kaggle's "Telco Customer Churn" dataset, which provides custom
 ### Results
 The **Logistic Regression** model performed the best at predicting customer churn. The features affecting the model's decisions the most were **tenure (length of time with the company), contract type, add-ons (specifically phone service), and total charges**. Retention strategies should focus on incentivizing longer contracts, bundling add-ons, and providing relief for high-charge customers, perhaps through discounts.
 
-
+### Tools and Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly Express
+- Scikit-learn
+- XGBoost
